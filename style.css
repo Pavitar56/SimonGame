@@ -1,0 +1,41 @@
+body {
+  color: #dbedf3;
+  text-align: center;
+  background-color: #011f3f;
+  font-family: "Press Start 2P", cursive;
+  color: bisque;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  border: 13px solid black;
+  border-radius: 2rem;
+  margin: 20px;
+}
+.heading {
+  margin-bottom: 15px;
+  padding: 20px;
+  font-size: 3rem;
+  line-height: 5rem;
+}
+#b0 {
+  background-color: green;
+}
+#b1 {
+  background-color: red;
+}
+#b2 {
+  background-color: yellow;
+}
+#b3 {
+  background-color: blue;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.backgroundBlinker {
+  background-color: red;
+}
